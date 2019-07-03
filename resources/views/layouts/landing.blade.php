@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Page</title>@include('includes.head')
+    <title>2-pageSite</title>@include('includes.head')
 </head>
 <body>
 <div class="container">
@@ -12,7 +12,7 @@
     </main>
 
 </div>
-<footer class="container-fluid bg-dark text-white text-center">
+<footer class="container-fluid bg-gray text-white text-center">
     <div class="container">
         @include('includes.footer')
     </div>
