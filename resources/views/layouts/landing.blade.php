@@ -12,7 +12,7 @@
     </main>
 
 </div>
-<footer class="container-fluid bg-gray text-white text-center">
+<footer class="container-fluid bg-dark text-white text-center">
     <div class="container">
         @include('includes.footer')
     </div>
