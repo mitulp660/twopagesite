@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Mitul Patel PaGe
                 </div>
 
                 <div class="links">
