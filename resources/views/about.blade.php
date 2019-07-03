@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mitul Patel PaGe
+                    ABOUT
                 </div>
 
                 <div class="links">
