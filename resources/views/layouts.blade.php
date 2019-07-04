@@ -12,11 +12,11 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-lg-8">
+                <div class="col">
                     @yield('content')
                 </div>
 
-                <div class="col-md-4 col-lg-4">
+                <div class="col">
                     @include('inc.sidebar')
                  </div>
             </div>
