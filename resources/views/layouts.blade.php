@@ -8,9 +8,10 @@
     </head>
     <body>
         @include('inc.navbar')
+
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-lg-8">
+                <div class="col-md-2 col-lg-2">
                     @yield('content')
                 </div>
 
