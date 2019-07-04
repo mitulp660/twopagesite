@@ -11,7 +11,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-2 col-lg-2">
+                <div class="col-md-auto-2 col-lg-auto-2">
                     @yield('content')
                 </div>
 

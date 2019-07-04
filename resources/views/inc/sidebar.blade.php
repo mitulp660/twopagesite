@@ -1,5 +1,7 @@
 @section('sidebar')
-    <div class="sidebar">
+    <div class="well">
         <h2>sidebar</h2>
-        @show
+        Created by Mitul Patel
+
     </div>
+@show
