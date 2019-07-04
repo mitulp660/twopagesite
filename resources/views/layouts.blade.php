@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Two-Page_HW</title>
-        <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="/css/layouts.css">
 
     </head>
     <body>
