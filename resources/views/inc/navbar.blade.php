@@ -5,8 +5,8 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
+    <div  class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav">
             <li>
                 <a href="/">Home <span class="sr-only">(current)</span></a>
             </li>
