@@ -11,7 +11,6 @@
     </head>
     <body>
         @include('inc.navbar')
-
         @yield('content')
         @include('inc.sidebar')
 
